@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Q2.js"
+    "start": "node Q2-route.js"
   },
   "keywords": [
     "Assignment-04"
