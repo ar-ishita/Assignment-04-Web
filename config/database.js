@@ -1,3 +1,3 @@
 module.exports = {
-  url: "mongodb://127.0.0.1:27017/ishitaDB",
+  url: "mongodb+srv://root:root@ishita.6b8hnxo.mongodb.net/?retryWrites=true&w=majority/ishitaDB",
 };
